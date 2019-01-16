@@ -1,2 +1,4 @@
 # virtualization_tech-awesome
-虚拟化技术学习资料
+* Xen
+  * [Xen虚拟化基本原理详解](https://www.cnblogs.com/sddai/p/5931201.html)
+  * 
