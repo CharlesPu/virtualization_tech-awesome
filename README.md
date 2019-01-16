@@ -8,3 +8,5 @@
 * kvm
   * [kvm虚拟化技术（一）](https://blog.csdn.net/CaroLjy/article/details/79804432)
   * [kvm虚拟化技术（二）](https://blog.csdn.net/CaroLjy/article/details/79804521)
+* OpenStack
+  * [OpenStack构架知识梳理](https://www.cnblogs.com/kevingrace/p/5733508.html)
