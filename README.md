@@ -12,5 +12,6 @@
   * [OpenStack构架知识梳理](https://www.cnblogs.com/kevingrace/p/5733508.html)
   * [OpenStack与Hadoop区别](https://blog.csdn.net/cl11010/article/details/79412277)
   * [OpenStack与CloudStack比较](https://blog.csdn.net/ninjya_luck/article/details/52312275)
+  * [OpenStack与Kubernetes](https://www.sdnlab.com/22372.html)  
 * Kubernetes
   * [核心概念](http://www.dockone.io/article/932)
