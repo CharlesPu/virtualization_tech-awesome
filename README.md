@@ -10,3 +10,6 @@
   * [kvm虚拟化技术（二）](https://blog.csdn.net/CaroLjy/article/details/79804521)
 * OpenStack
   * [OpenStack构架知识梳理](https://www.cnblogs.com/kevingrace/p/5733508.html)
+
+* Kubernetes
+  * [核心概念](http://www.dockone.io/article/932)
