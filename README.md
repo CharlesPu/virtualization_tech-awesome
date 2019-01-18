@@ -6,6 +6,7 @@
   * [Xen虚拟化基本原理详解](https://www.cnblogs.com/sddai/p/5931201.html)
   * [Xen的虚拟化详解](https://www.cnblogs.com/miachel-zheng/p/7067421.html)
 * kvm
+  * [kvm详解](http://blog.chinaunix.net/uid-7934175-id-5679365.html)(巨详细)
   * [kvm虚拟化技术（一）](https://blog.csdn.net/CaroLjy/article/details/79804432)
   * [kvm虚拟化技术（二）](https://blog.csdn.net/CaroLjy/article/details/79804521)
 * OpenStack
